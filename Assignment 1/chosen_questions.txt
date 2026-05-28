@@ -1,0 +1,25 @@
+— Anchoring Effect
+Ask the interviewee: "Do you think the population of Argentina is more or less than 10 million?" Then ask: "What do you think the actual population is?" For half your interviewees, use the anchor 1 crore. For the other half, use 10 crores.
+Visualization: Bar chart. X-axis: Anchor group (Low anchor vs. High anchor). Y-axis: Mean estimated population. Expected pattern: the high-anchor group should give significantly higher estimates.
+
+— Framing Effect
+Present one of the following framings (randomly assign):
+•	Gain frame: "A new medical treatment for a dangerous virus saves 200 out of 600 patients. Would you recommend it? (1 = Definitely not, 7 = Definitely yes)"
+•	Loss frame: "A new medical treatment results in 400 out of 600 patients dying. Would you recommend it? (1 = Definitely not, 7 = Definitely yes)"
+Visualization: Bar chart or violin plot. X-axis: Frame (Gain vs. Loss). Y-axis: Mean recommendation rating (1–7). Expected pattern: higher ratings in the gain frame despite identical outcomes.
+
+— Representativeness Heuristic (Linda Problem)
+Read this description: "Rekha is 31, single, outspoken, and very bright. She majored in philosophy. As a student, she was deeply concerned with issues of discrimination and social justice." Then ask: "Which is more probable? (a) Rekha is a bank teller, or (b) Rekha is a bank teller AND is active in the feminist movement."
+Visualization: Pie chart or bar chart showing the proportion of people choosing (a) vs. (b). Expected pattern: a majority choose (b), committing the conjunction fallacy.
+
+— Choice Overload
+Ask: "Imagine you walk into a store to buy jam. In one scenario, there are 6 varieties available. In another, there are 24 varieties. In which scenario would you be more likely to actually buy a jar? Rate your likelihood in each case (1–7)."
+Visualization: Paired bar chart. X-axis: Condition (6 options vs. 24 options). Y-axis: Mean purchase likelihood (1–7). Expected pattern: higher likelihood in the 6-option condition.
+
+— Sunk Cost Fallacy
+Ask: "You've bought a movie ticket for ₹500. Thirty minutes in, you're really not enjoying the film. Would you stay or leave? (Stay / Leave)" Then: "Now imagine the ticket was free. Same bad movie. Would you stay or leave?"
+Visualization: Grouped bar chart. X-axis: Ticket condition (Paid vs. Free). Y-axis: Percentage choosing "Stay." Expected pattern: more people stay when they paid, even though the money is already spent.
+
+— Status Quo Bias
+Ask: "Your phone plan currently gives you 10 GB data and 200 minutes of calls. A new plan offers 15 GB data and 100 minutes of calls for the same price. Would you switch? (1 = Definitely not, 7 = Definitely yes)"
+Visualization: Histogram or bar chart. X-axis: Switching likelihood rating (1–7). Y-axis: Frequency. Expected pattern: a skew toward lower ratings, showing reluctance to switch from the status quo even when the alternative may be objectively better (depending on usage).
